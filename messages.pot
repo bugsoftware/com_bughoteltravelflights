@@ -1,5 +1,7 @@
 msgid "Any"
 msgstr ""
+msgid "All"
+msgstr ""
 msgid "index.php?option=com_bughoteltravelflights&Itemid="
 msgstr ""
 msgid "Reservations"
